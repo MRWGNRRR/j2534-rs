@@ -1,15 +1,15 @@
 [package]
 name = "j2534-mrw"
 version = "0.3.5"
-authors = ["Altenius <jacobjm18@gmail.com>"]
+authors = ["Altenius <jacobjm18@gmail.com>", "MRW <171420035+MRWGNRRR@users.noreply.github.com>"]
 keywords = ["cars", "tuning", "passthru"]
 categories = ["external-ffi-bindings", "hardware-support"]
 description = "PassThru (SAE J2534) bindings."
-documentation = "https://docs.rs/j2534"
-repository = "https://github.com/altenius/j2534-rs"
+documentation = "https://docs.rs/j2534-mrw"
+repository = "https://github.com/MRWGNRRR/j2534-rs"
 license = "MIT"
 readme = "README.md"
-edition = "2018"
+edition = "2024"
 
 [package.metadata.docs.rs]
 all-features = true
