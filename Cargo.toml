@@ -1,5 +1,5 @@
 [package]
-name = "j2534"
+name = "j2534-mrw"
 version = "0.3.5"
 authors = ["Altenius <jacobjm18@gmail.com>"]
 keywords = ["cars", "tuning", "passthru"]
