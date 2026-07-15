@@ -1,6 +1,6 @@
 [package]
 name = "j2534-mrw"
-version = "0.3.5"
+version = "0.3.6"
 authors = ["Altenius <jacobjm18@gmail.com>", "MRW <171420035+MRWGNRRR@users.noreply.github.com>"]
 keywords = ["cars", "tuning", "passthru"]
 categories = ["external-ffi-bindings", "hardware-support"]
